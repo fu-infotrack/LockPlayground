@@ -47,6 +47,11 @@ dotnet run --project SemaphoreConsole 2
 
 # Distributed Lock 
 
+* https://redis.io/docs/latest/develop/use/patterns/distributed-locks
+* https://github.com/samcook/RedLock.net
+* https://github.com/madelson/DistributedLock
+ 
+
 * cross-machine
 * backed by a central data store, e.g. Redis or MSSQL
 * expiry
